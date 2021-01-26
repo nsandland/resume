@@ -1,0 +1,340 @@
+{
+  "basics": {
+    "label": "Software Engineering Manager<BR>Generalist & Maker",
+    "email": "nathan@sandlands.org",
+    "phone": "650.539.5554",
+    "name": "Nathan L. Sandland",
+    "summary": "**Software engineer and manager with 25 years of full stack software industry experience, half of which has been with Google.** I have a passion for product development, and a generalist mentality--working cross discipline to drive innovation. Currently managing a team of 15+ mobile engineers at Google Nest.",
+    "picture": "headshot.jpg"
+  },
+  "work": [
+    {
+      "company": "Google",
+      "website": "https://google.com",
+      "position": "Software Engineering Manager - [Nest](https://store.google.com/us/category/connected_home)",
+      "startDate": "2017-10",
+      "summary": "Managed a 15+ person team of Android and iOS developers working on the Nest app and the Google Home App.",
+      "highlights": [
+        "Device Setup in the Google Home App",
+        "[CHIP Zigbee alliance standard](https://www.connectedhomeip.com/)",
+        "Legacy Nest account migration to Google",
+        "Developed device software for [Google Nest Hub](https://support.google.com/googlenest/answer/9136909)",
+        "Taught 2-day leadership training course"
+      ]
+    },
+    {
+      "company": "Google",
+      "website": "https://google.com",
+      "position": "Software Engineering Manager & Developer - Google for Kids",
+      "startDate": "2014-03",
+      "endDate": "2017-10",
+      "summary": "Managed a 13+ person team building support for Kids & Families across Google.",
+      "highlights": [
+        "Conceptualized and led app development of [Family Link](https://families.google.com/familylink/)",
+        "Led team responsible for [family subscriptions](https://families.google.com/families/)",
+        "Enabled COPPA compliant [child accounts](https://support.google.com/families/answer/7103338) on Google.",
+        "Taught a course in software development excellence, called 'Code Retreat'"
+      ]
+    },
+    {
+      "company": "Google",
+      "website": "https://google.com",
+      "position": "Software Engineering Manager & Developer - Google TV",
+      "startDate": "2010-04",
+      "endDate": "2014-03",
+      "summary": "Managed a 6+ person team building PrimeTime content discovery app for Google TV.",
+      "highlights": [
+        "Brought PrimeTime app to initial launch and supported it for 2 years beyond that.",
+        "Invented and prototyped content search engine for Google TV."
+      ]
+    },
+    {
+      "company": "Google",
+      "website": "https://google.com",
+      "position": "Technical Lead & Developer - Corporate Engineering",
+      "startDate": "2008-11",
+      "endDate": "2010-04",
+      "summary": "Led team responsible for building an LDAP-like employee database used to power Google's internal employee lookup tool, and various human resources apps.",
+      "highlights": [
+        "System architecture",
+        "Python API",
+        "Sync with external LDAP systems"
+      ]
+    },
+    {
+      "company": "3600 Degrees",
+      "position": "President",
+      "startDate": "2005-08",
+      "endDate": "2008-11",
+      "summary": "Consulting and new product development.",
+      "highlights": [
+        "Content Management System (CMS) for Novell marketing group",
+        "Captcha library",
+        "Consultant time tracker for MacOS"
+      ]
+    },
+    {
+      "company": "Wellington Management Co",
+      "website": "https://wellington.com",
+      "position": "Software Engineering Manager, Developer & AVP",
+      "startDate": "2002-10",
+      "endDate": "2005-08",
+      "summary": "Led a team to develop a portfolio management application for private equity fixed income portfolio managers."
+    },
+    {
+      "company": "Novell",
+      "position": "Consultant",
+      "startDate": "2001-12",
+      "endDate": "2003-01",
+      "summary": "Marketing team web site consolidation."
+    },
+    {
+      "company": "Excite@Home",
+      "position": "Senior Software Engineer & Manager",
+      "startDate": "1999-12",
+      "endDate": "2001-12",
+      "summary": "Built Excite Freetailer eCommerce platform."
+    },
+    {
+      "company": "Motorola",
+      "position": "Software Tools Engineer",
+      "startDate": "1997-05",
+      "endDate": "1999-12",
+      "summary": "Built tools for supporting good software engineering practices and code reuse."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Illinois, Urbana-Champaign",
+      "gpa": "4.0/4.0",
+      "area": "Computer Science",
+      "studyType": "Non-degree coursework in Software Architecture"
+    },
+    {
+      "institution": "Stanford University",
+      "gpa": "4.0/4.0",
+      "area": "Computer Science",
+      "studyType": "Non-degree coursework in Machine Learning and Information Retrieval"
+    },
+    {
+      "institution": "University of Illinois, Urbana-Champaign",
+      "gpa": "3.8/4.0",
+      "startDate": "1992-08",
+      "endDate": "1998-04",
+      "area": "Computer Engineering",
+      "studyType": "BS"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "Kotlin"
+    },
+    {
+      "name": "Android development"
+    },
+    {
+      "name": "Objective C"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Bazel"
+    },
+    {
+      "name": "Cloud architecture"
+    },
+    {
+      "name": "Mobile app development"
+    },
+    {
+      "name": "UI"
+    },
+    {
+      "name": "Performance tuning"
+    },
+    {
+      "name": "IOT"
+    },
+    {
+      "name": "People management"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Dart"
+    },
+    {
+      "name": "Google Assistant"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "Machine learning"
+    },
+    {
+      "name": "Interviewing"
+    },
+    {
+      "name": "Performance management"
+    },
+    {
+      "name": "Software design"
+    },
+    {
+      "name": "Arduino"
+    },
+    {
+      "name": "Welding"
+    },
+    {
+      "name": "3D Printing"
+    },
+    {
+      "name": "Carpentry"
+    },
+    {
+      "name": "Framing"
+    },
+    {
+      "name": "Plumbing"
+    },
+    {
+      "name": "Electrical work"
+    },
+    {
+      "name": "Soldering"
+    },
+    {
+      "name": "Electronics"
+    },
+    {
+      "name": "Robotics"
+    },
+    {
+      "name": "Masonry"
+    },
+    {
+      "name": "CAD"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Project management"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Vex IQ Team 1360A",
+      "position": "Mentor",
+      "startDate": "2020-01",
+      "website": "https://www.robotevents.com/teams/VIQC/1360A",
+      "summary": "Founded and mentored Vex IQ robotics team."
+    },
+    {
+      "organization": "MVHS FRC Team 971",
+      "position": "Mentor",
+      "startDate": "2017-09",
+      "endDate": "2018-04",
+      "website": "https://frc971.org/",
+      "summary": "Mentored award winning FIRST robotics team."
+    },
+    {
+      "organization": "The Church of Jesus Christ of Latter-day Saints",
+      "position": "Missionary",
+      "startDate": "1993-07",
+      "endDate": "1995-07",
+      "website": "https://churchofjesuschrist.org"
+    }
+  ],
+  "awards": [
+    {
+      "flavor": "patent",
+      "title": "Identification and Presentation of Content Associated with Currently Playing Television Programs",
+      "date": "2020-10"
+    },
+    {
+      "flavor": "patent",
+      "title": "Using OCR to detect currently playing television programs",
+      "date": "2020-09"
+    },
+    {
+      "flavor": "patent",
+      "title": "METHODS, SYSTEMS, AND MEDIA FOR PROVIDING A MEDIA SEARCH ENGINE",
+      "date": "2020-07"
+    },
+    {
+      "flavor": "patent",
+      "title": "Identification and presentation of content associated with currently playing television programs",
+      "date": "2020-06"
+    },
+    {
+      "flavor": "patent",
+      "title": "Methods, systems, and media for providing a media search engine",
+      "date": "2020-04"
+    },
+    {
+      "flavor": "patent",
+      "title": "Identification and Presentation of Content Associated with Currently Playing Television Programs",
+      "date": "2019-06"
+    },
+    {
+      "flavor": "patent",
+      "title": "Systems and Methods for Operating a Set Top Box",
+      "date": "2019-06"
+    },
+    {
+      "flavor": "patent",
+      "title": "Identification and presentation of internet-accessible content associated with currently playing television programs",
+      "date": "2019-03"
+    },
+    {
+      "flavor": "patent",
+      "title": "Creating cover art for media browsers",
+      "date": "2018-04"
+    },
+    {
+      "flavor": "patent",
+      "title": "Two way control of a set top box",
+      "date": "2018-01"
+    },
+    {
+      "flavor": "patent",
+      "title": "Automated channel detection with one-way control of a channel source",
+      "date": "2017-11"
+    },
+    {
+      "flavor": "patent",
+      "title": "Systems and methods for sharing video viewing history",
+      "date": "2016-09"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native"
+    },
+    {
+      "language": "German",
+      "level": "Rusting"
+    }
+  ]
+}

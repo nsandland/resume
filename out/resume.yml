@@ -1,0 +1,322 @@
+name: 'Nathan L. Sandland'
+info:
+  label: 'Software Engineering Manager<BR>Generalist & Maker'
+  image: headshot.jpg
+  brief: '**Software engineer and manager with 25 years of full stack software industry experience, half of which has been with Google.** I have a passion for product development, and a generalist mentality--working cross discipline to drive innovation. Currently managing a team of 15+ mobile engineers at Google Nest.'
+contact:
+  email: nathan@sandlands.org
+  phone: 650.539.5554
+meta:
+  format: FRESH@^1.0.0-beta
+  modified: '2021-01-26T18:00:29.563Z'
+employment:
+  history:
+    -
+      position: 'Software Engineering Manager - [Nest](https://store.google.com/us/category/connected_home)'
+      employer: Google
+      summary: 'Managed a 15+ person team of Android and iOS developers working on the Nest app and the Google Home App.'
+      current: true
+      start: 2017-10
+      url: 'https://google.com'
+      keywords: []
+      highlights:
+        - 'Device Setup in the Google Home App'
+        - '[CHIP Zigbee alliance standard](https://www.connectedhomeip.com/)'
+        - 'Legacy Nest account migration to Google'
+        - 'Developed device software for [Google Nest Hub](https://support.google.com/googlenest/answer/9136909)'
+        - 'Taught 2-day leadership training course'
+    -
+      position: 'Software Engineering Manager & Developer - Google for Kids'
+      employer: Google
+      summary: 'Managed a 13+ person team building support for Kids & Families across Google.'
+      start: 2014-03
+      end: 2017-10
+      url: 'https://google.com'
+      keywords: []
+      highlights:
+        - 'Conceptualized and led app development of [Family Link](https://families.google.com/familylink/)'
+        - 'Led team responsible for [family subscriptions](https://families.google.com/families/)'
+        - 'Enabled COPPA compliant [child accounts](https://support.google.com/families/answer/7103338) on Google.'
+        - 'Taught a course in software development excellence, called ''Code Retreat'''
+    -
+      position: 'Software Engineering Manager & Developer - Google TV'
+      employer: Google
+      summary: 'Managed a 6+ person team building PrimeTime content discovery app for Google TV.'
+      start: 2010-04
+      end: 2014-03
+      url: 'https://google.com'
+      keywords: []
+      highlights:
+        - 'Brought PrimeTime app to initial launch and supported it for 2 years beyond that.'
+        - 'Invented and prototyped content search engine for Google TV.'
+    -
+      position: 'Technical Lead & Developer - Corporate Engineering'
+      employer: Google
+      summary: 'Led team responsible for building an LDAP-like employee database used to power Google''s internal employee lookup tool, and various human resources apps.'
+      start: 2008-11
+      end: 2010-04
+      url: 'https://google.com'
+      keywords: []
+      highlights:
+        - 'System architecture'
+        - 'Python API'
+        - 'Sync with external LDAP systems'
+    -
+      position: President
+      employer: '3600 Degrees'
+      summary: 'Consulting and new product development.'
+      start: 2005-08
+      end: 2008-11
+      keywords: []
+      highlights:
+        - 'Content Management System (CMS) for Novell marketing group'
+        - 'Captcha library'
+        - 'Consultant time tracker for MacOS'
+    -
+      position: 'Software Engineering Manager, Developer & AVP'
+      employer: 'Wellington Management Co'
+      summary: 'Led a team to develop a portfolio management application for private equity fixed income portfolio managers.'
+      start: 2002-10
+      end: 2005-08
+      url: 'https://wellington.com'
+      keywords: []
+    -
+      position: Consultant
+      employer: Novell
+      summary: 'Marketing team web site consolidation.'
+      start: 2001-12
+      end: 2003-01
+      keywords: []
+    -
+      position: 'Senior Software Engineer & Manager'
+      employer: Excite@Home
+      summary: 'Built Excite Freetailer eCommerce platform.'
+      start: 1999-12
+      end: 2001-12
+      keywords: []
+    -
+      position: 'Software Tools Engineer'
+      employer: Motorola
+      summary: 'Built tools for supporting good software engineering practices and code reuse.'
+      start: 1997-05
+      end: 1999-12
+      keywords: []
+skills:
+  list:
+    -
+      name: 'Software Engineering'
+      years: 25
+    -
+      name: Java
+      years: 20
+    -
+      name: Kotlin
+      years: 1
+    -
+      name: 'Android development'
+      years: 10
+    -
+      name: 'Objective C'
+      years: 2
+    -
+      name: HTML
+      years: 20
+    -
+      name: Javascript
+      years: 20
+    -
+      name: CSS
+      years: 20
+    -
+      name: Python
+      years: 6
+    -
+      name: Bazel
+      years: 10
+    -
+      name: 'Cloud architecture'
+      years: 7
+    -
+      name: 'Mobile app development'
+      years: 10
+    -
+      name: UI
+      years: 15
+    -
+      name: 'Performance tuning'
+      years: 5
+    -
+      name: IOT
+      years: 7
+    -
+      name: 'People management'
+      years: 18
+    -
+      name: Angular
+      years: 2
+    -
+      name: Dart
+      years: 1
+    -
+      name: 'Google Assistant'
+      years: 1
+    -
+      name: C
+      years: 4
+    -
+      name: 'Machine learning'
+      years: 1
+    -
+      name: Interviewing
+      years: 10
+    -
+      name: 'Performance management'
+      years: 9
+    -
+      name: 'Software design'
+      years: 20
+    -
+      name: Arduino
+      years: 4
+    -
+      name: Welding
+      years: 1
+    -
+      name: '3D Printing'
+      years: 3
+    -
+      name: Carpentry
+      years: 5
+    -
+      name: Framing
+      years: 2
+    -
+      name: Plumbing
+      years: 2
+    -
+      name: 'Electrical work'
+      years: 2
+    -
+      name: Soldering
+      years: 3
+    -
+      name: Electronics
+      years: 3
+    -
+      name: Robotics
+      years: 3
+    -
+      name: Masonry
+      years: 3
+    -
+      name: CAD
+      years: 1
+    -
+      name: SQL
+      years: 8
+    -
+      name: 'Project management'
+      years: 9
+education:
+  level: ""
+  history:
+    -
+      institution: 'University of Illinois, Urbana-Champaign'
+      grade: 4.0/4.0
+      summary: ""
+      area: 'Computer Science'
+      studyType: 'Non-degree coursework in Software Architecture'
+    -
+      institution: 'Stanford University'
+      grade: 4.0/4.0
+      summary: ""
+      area: 'Computer Science'
+      studyType: 'Non-degree coursework in Machine Learning and Information Retrieval'
+    -
+      institution: 'University of Illinois, Urbana-Champaign'
+      start: 1992-08
+      end: 1998-04
+      grade: 3.8/4.0
+      summary: ""
+      area: 'Computer Engineering'
+      studyType: BS
+service:
+  history:
+    -
+      type: volunteer
+      position: Mentor
+      organization: 'Vex IQ Team 1360A'
+      start: 2020-01
+      url: 'https://www.robotevents.com/teams/VIQC/1360A'
+      summary: 'Founded and mentored Vex IQ robotics team.'
+    -
+      type: volunteer
+      position: Mentor
+      organization: 'MVHS FRC Team 971'
+      start: 2017-09
+      end: 2018-04
+      url: 'https://frc971.org/'
+      summary: 'Mentored award winning FIRST robotics team.'
+    -
+      type: volunteer
+      position: Missionary
+      organization: 'The Church of Jesus Christ of Latter-day Saints'
+      start: 1993-07
+      end: 1995-07
+      url: 'https://churchofjesuschrist.org'
+recognition:
+  -
+    flavor: patent
+    title: 'Identification and Presentation of Content Associated with Currently Playing Television Programs'
+    date: 2020-10
+  -
+    flavor: patent
+    title: 'Using OCR to detect currently playing television programs'
+    date: 2020-09
+  -
+    flavor: patent
+    title: 'METHODS, SYSTEMS, AND MEDIA FOR PROVIDING A MEDIA SEARCH ENGINE'
+    date: 2020-07
+  -
+    flavor: patent
+    title: 'Identification and presentation of content associated with currently playing television programs'
+    date: 2020-06
+  -
+    flavor: patent
+    title: 'Methods, systems, and media for providing a media search engine'
+    date: 2020-04
+  -
+    flavor: patent
+    title: 'Identification and Presentation of Content Associated with Currently Playing Television Programs'
+    date: 2019-06
+  -
+    flavor: patent
+    title: 'Systems and Methods for Operating a Set Top Box'
+    date: 2019-06
+  -
+    flavor: patent
+    title: 'Identification and presentation of internet-accessible content associated with currently playing television programs'
+    date: 2019-03
+  -
+    flavor: patent
+    title: 'Creating cover art for media browsers'
+    date: 2018-04
+  -
+    flavor: patent
+    title: 'Two way control of a set top box'
+    date: 2018-01
+  -
+    flavor: patent
+    title: 'Automated channel detection with one-way control of a channel source'
+    date: 2017-11
+  -
+    flavor: patent
+    title: 'Systems and methods for sharing video viewing history'
+    date: 2016-09
+languages:
+  -
+    language: English
+    level: Native
+  -
+    language: German
+    level: Rusting

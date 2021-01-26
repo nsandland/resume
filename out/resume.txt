@@ -1,0 +1,114 @@
+Nathan L. Sandland
+Email: nathan@sandlands.org
+Tel: 650.539.5554
+
+================================================================================
+
+
+**Software engineer and manager with 25 years of full stack software industry experience, half of which has been with Google.** I have a passion for product development, and a generalist mentality--working cross discipline to drive innovation. Currently managing a team of 15+ mobile engineers at Google Nest.
+
+
+
+EMPLOYMENT ---------------------------------------------------------------------
+
+Software Engineering Manager - [Nest](https://store.google.com/us/category/connected_home), Google (2017-10 — Present)
+Managed a 15+ person team of Android and iOS developers working on the Nest app and the Google Home App.
+- Device Setup in the Google Home App
+- [CHIP Zigbee alliance standard](https://www.connectedhomeip.com/)
+- Legacy Nest account migration to Google
+- Developed device software for [Google Nest Hub](https://support.google.com/googlenest/answer/9136909)
+- Taught 2-day leadership training course
+
+Software Engineering Manager & Developer - Google for Kids, Google (2014-03 — 2017-10)
+Managed a 13+ person team building support for Kids & Families across Google.
+- Conceptualized and led app development of [Family Link](https://families.google.com/familylink/)
+- Led team responsible for [family subscriptions](https://families.google.com/families/)
+- Enabled COPPA compliant [child accounts](https://support.google.com/families/answer/7103338) on Google.
+- Taught a course in software development excellence, called 'Code Retreat'
+
+Software Engineering Manager & Developer - Google TV, Google (2010-04 — 2014-03)
+Managed a 6+ person team building PrimeTime content discovery app for Google TV.
+- Brought PrimeTime app to initial launch and supported it for 2 years beyond that.
+- Invented and prototyped content search engine for Google TV.
+
+Technical Lead & Developer - Corporate Engineering, Google (2008-11 — 2010-04)
+Led team responsible for building an LDAP-like employee database used to power Google's internal employee lookup tool, and various human resources apps.
+- System architecture
+- Python API
+- Sync with external LDAP systems
+
+President, 3600 Degrees (2005-08 — 2008-11)
+Consulting and new product development.
+- Content Management System (CMS) for Novell marketing group
+- Captcha library
+- Consultant time tracker for MacOS
+
+Software Engineering Manager, Developer & AVP, Wellington Management Co (2002-10 — 2005-08)
+Led a team to develop a portfolio management application for private equity fixed income portfolio managers.
+
+Consultant, Novell (2001-12 — 2003-01)
+Marketing team web site consolidation.
+
+Senior Software Engineer & Manager, Excite@Home (1999-12 — 2001-12)
+Built Excite Freetailer eCommerce platform.
+
+Software Tools Engineer, Motorola (1997-05 — 1999-12)
+Built tools for supporting good software engineering practices and code reuse.
+
+
+
+
+EDUCATION ----------------------------------------------------------------------
+
+University of Illinois, Urbana-Champaign (??? — Present)
+
+Stanford University (??? — Present)
+
+University of Illinois, Urbana-Champaign (1992-08 — 1998-04)
+
+
+
+
+
+
+SERVICE ------------------------------------------------------------------------
+
+Vex IQ Team 1360A (2020-01 — Present)
+Founded and mentored Vex IQ robotics team.
+
+MVHS FRC Team 971 (2017-09 — 2018-04)
+Mentored award winning FIRST robotics team.
+
+The Church of Jesus Christ of Latter-day Saints (1993-07 — 1995-07)
+
+
+
+RECOGNITION --------------------------------------------------------------------
+
+Identification and Presentation of Content Associated with Currently Playing Television Programs (Jan 2020)
+
+Using OCR to detect currently playing television programs (Jan 2020)
+
+METHODS, SYSTEMS, AND MEDIA FOR PROVIDING A MEDIA SEARCH ENGINE (Jan 2020)
+
+Identification and presentation of content associated with currently playing television programs (Jan 2020)
+
+Methods, systems, and media for providing a media search engine (Jan 2020)
+
+Identification and Presentation of Content Associated with Currently Playing Television Programs (Jan 2019)
+
+Systems and Methods for Operating a Set Top Box (Jan 2019)
+
+Identification and presentation of internet-accessible content associated with currently playing television programs (Jan 2019)
+
+Creating cover art for media browsers (Jan 2018)
+
+Two way control of a set top box (Jan 2018)
+
+Automated channel detection with one-way control of a channel source (Jan 2017)
+
+Systems and methods for sharing video viewing history (Jan 2016)
+
+
+
+
